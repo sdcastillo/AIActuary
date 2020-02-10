@@ -1,13 +1,14 @@
 ---
-title: "Answers to Exercises - Data Manipulation"
+title: "Fast Data Manipulation"
 output:
   html_document:
     df_print: paged
 ---
 
 ```{r message = F}
-library(ExamPAData)
 library(tidyverse)
+library(repmis)
+source_data("https://github.com/sdcastillo/ExamPAData/blob/master/data/actuary_salaries.RData?raw=True")
 ```
 
 
