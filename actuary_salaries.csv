@@ -1,0 +1,139 @@
+industry,exams,experience,salary,salary_low,salary_high
+Casualty,1 Exam,1,48 - 65,48,65
+Casualty,2 Exams,1,50 - 71,50,71
+Casualty,3 Exams,1,54 - 77,54,77
+Casualty,4 Exams,1,58 - 82,58,82
+Casualty,1 Exam,3,54 - 72,54,72
+Casualty,2 Exams,3,57 - 81,57,81
+Casualty,3 Exams,3,62 - 87,62,87
+Casualty,4 Exams,3,63 - 91,63,91
+Casualty,5 Exams,3,65 - 95,65,95
+Casualty,6 Exams,3,70 - 97,70,97
+Casualty,7 Exams,3,72 - 99,72,99
+Casualty,ACAS,3,85 - 112,85,112
+Casualty,1 Exam,5,55 - 80,55,80
+Casualty,2 Exams,5,58 - 83,58,83
+Casualty,3 Exams,5,66 - 100,66,100
+Casualty,4 Exams,5,71 - 107,71,07
+Casualty,5 Exams,5,73 - 111,73,11
+Casualty,6 Exams,5,76 - 116,76,16
+Casualty,7 Exams,5,85 - 118,85,18
+Casualty,ACAS,5,90 - 138,90,38
+Casualty,FCAS,5,114 - 166,11,66
+Casualty,2 Exams,7,60 - 92,60,92
+Casualty,3 Exams,7,79 - 106,79,06
+Casualty,4 Exams,7,82 - 109,82,09
+Casualty,5 Exams,7,84 - 118,84,18
+Casualty,6 Exams,7,88 - 126,88,26
+Casualty,7 Exams,7,94 - 135,94,35
+Casualty,ACAS,7,98 - 154,98,54
+Casualty,FCAS,7,116 - 190,116,190
+Casualty,2 Exams,10,60 - 92,60,92
+Casualty,3 Exams,10,79 - 106,79,106
+Casualty,4 Exams,10,82 - 109,82,109
+Casualty,5 Exams,10,84 - 118,84,118
+Casualty,6 Exams,10,88 - 126,88,126
+Casualty,7 Exams,10,94 - 135,94,135
+Casualty,ACAS,10,98 - 154,98,154
+Casualty,FCAS,10,116 - 190,116,190
+Casualty,3 Exams,15,94 - 141,94,141
+Casualty,4 Exams,15,100 - 159,100,159
+Casualty,5 Exams,15,102 - 167,102,167
+Casualty,6 Exams,15,107 - 172,107,172
+Casualty,7 Exams,15,110 - 210,110,210
+Casualty,ACAS,15,144 - 369,144,369
+Casualty,ACAS,20,124 - 273,124,273
+Casualty,FCAS,20,158 - 447,158,447
+Health,1,1,49 - 60,49,60
+Health,2,1,54 - 66,54,66
+Health,3,1,56 - 72,56,72
+Health,4,1,58 - 74,58,74
+Health,1,3,54 - 69,54,69
+Health,2,3,56 - 76,56,76
+Health,3,3,57 - 83,57,83
+Health,4,3,62 - 89,62,89
+Health,5,3,68 - 93,68,93
+Health,ASA,3,78 - 120,78,120
+Health,1,5,57 - 76,57,76
+Health,2,5,62 - 84,62,84
+Health,3,5,63 - 90,63,90
+Health,4,5,70 - 103,70,103
+Health,5,5,72 - 110,72,110
+Health,ASA,5,80 - 126,80,126
+Health,FSA,5,106 - 165,106,165
+Health,2,7,65 - 89,65,89
+Health,3,7,67 - 96,67,96
+Health,4,7,80 - 107,80,107
+Health,5,7,82 - 121,82,121
+Health,ASA,7,85 - 134,85,134
+Health,FSA,7,112 - 174,112,174
+Health,4,10,82 - 115,82,115
+Health,5,10,84 - 126,84,126
+Health,ASA,10,94 - 150,94,150
+Health,FSA,10,121 - 210,121,210
+Health,ASA,15,104 - 204,104,204
+Health,FSA,15,140 - 273,140,273
+Health,ASA,20,133 - 240,133,240
+Health,FSA,20,155 - 390,155,390
+Life,1,1,51 - 61,51,61
+Life,2,1,52 - 64,52,64
+Life,3,1,55 - 69,55,69
+Life,4,1,57 - 76,57,76
+Life,1,3,55 - 70,55,70
+Life,2,3,56 - 78,56,78
+Life,3,3,58 - 81,58,81
+Life,4,3,64 - 92,64,92
+Life,5,3,71 - 103,71,103
+Life,ASA,3,75 - 117,75,117
+Life,1,5,56 - 74,56,74
+Life,2,5,60 - 85,60,85
+Life,3,5,63 - 94,63,94
+Life,4,5,68 - 100,68,100
+Life,5,5,72 - 109,72,109
+Life,ASA,5,76 - 125,76,125
+Life,FSA,5,104 - 156,104,156
+Life,2,7,63 - 92,63,92
+Life,3,7,69 - 100,69,100
+Life,4,7,74 - 104,74,104
+Life,5,7,76 - 120,76,120
+Life,ASA,7,84 - 147,84,147
+Life,FSA,7,122 - 202,122,202
+Life,4,10,76 - 117,76,117
+Life,5,10,87 - 130,87,130
+Life,ASA,10,94 - 172,94,172
+Life,FSA,10,124 - 255,124,255
+Life,ASA,15,106 - 191,124,191
+Life,FSA,15,135 - 286,124,286
+Life,ASA,20,109 - 225,124,225
+Life,FSA,20,153 - 364,124,364
+Pension,1,1,44 - 56,44,56
+Pension,2,1,46 - 62,46,62
+Pension,3,1,48 - 68,48,68
+Pension,4,1,56 - 75,56,75
+Pension,1,3,50 - 64,50,64
+Pension,2,3,56 - 70,56,70
+Pension,3,3,57 - 74,57,74
+Pension,4,3,63 - 84,63,84
+Pension,5,3,66 - 89,66,89
+Pension,ASA,3,78 - 95,78,95
+Pension,1,5,55 - 70,55,70
+Pension,2,5,58 - 77,58,77
+Pension,3,5,61 - 84,61,84
+Pension,4,5,65 - 91,65,91
+Pension,5,5,68 - 94,68,94
+Pension,ASA,5,80 - 105,80,105
+Pension,2,7,64 - 83,64,83
+Pension,3,7,65 - 91,65,91
+Pension,4,7,74 - 100,74,100
+Pension,5,7,75 - 104,75,104
+Pension,ASA,7,87 - 118,87,118
+Pension,FSA,7,112 - 151,112,151
+Pension,3,10,72 - 99,72,99
+Pension,4,10,76 - 106,76,106
+Pension,5,10,77 - 112,77,112
+Pension,ASA,10,90 - 139,90,139
+Pension,FSA,10,118 - 168,118,168
+Pension,ASA,15,108 - 175,118,175
+Pension,FSA,15,125 - 235,118,235
+Pension,ASA,20,124 - 243,118,243
+Pension,FSA,20,154 - 329,118,329
